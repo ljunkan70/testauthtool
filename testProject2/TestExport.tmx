@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tmx
+  version="1.4" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <header
+    creationtool="MadCap Lingo V8"
+    creationtoolversion="8.1.0.0"
+    segtype="sentence"
+    o-tmf="MadCap Lingo Translation Memory"
+    adminlang="en-US"
+    srclang="en-us"
+    datatype="x-sample"
+    creationdate="20140917T133636Z" />
+  <body>
+    <tu
+      srclang="en-us"><prop
+        type="x-context"></prop><tuv
+        xml:lang="en-us"><seg>New Source</seg></tuv><tuv
+        xml:lang="es"><seg>New Target</seg></tuv></tu>
+  </body>
+</tmx>

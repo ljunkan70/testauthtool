@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalIndex
+  SavedSource="file:///C:/MadcapFlare/testProject2/TranslateTestProj2.liprjf/Source/Output/cs_ops/Temporary/GlobalIndex v.6.catapultindex">
+  <IndexEntry>
+    <Entries>
+      <IndexEntry
+        Term="Product A">
+        <Entries>
+          <IndexEntry
+            Term="Article 1">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Products/Product A/Article1.htm"
+                UsedConditions="Default.Not Ready for Publish"
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+          <IndexEntry
+            Term="Article 2">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Products/Product A/Article2.htm"
+                UsedConditions="Default.Not Ready for Publish"
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+          <IndexEntry
+            Term="Article 3">
+            <Entries />
+            <Links>
+              <IndexLink
+                Link="Products/Product A/Article3.htm"
+                UsedConditions="Default.Not Ready for Publish"
+                LocalConditions="" />
+            </Links>
+            <SeeAlsoLinks />
+            <IndexControlLinks />
+            <SortAsLinks />
+          </IndexEntry>
+        </Entries>
+        <Links />
+        <SeeAlsoLinks />
+        <IndexControlLinks />
+        <SortAsLinks />
+      </IndexEntry>
+    </Entries>
+    <Links />
+    <SeeAlsoLinks />
+    <IndexControlLinks />
+    <SortAsLinks />
+  </IndexEntry>
+  <SourceUrls>
+    <Url
+      Source="KBTopicTemplate.htm" />
+    <Url
+      Source="Read First.pdf" />
+    <Url
+      Source="Welcome.htm" />
+    <Url
+      Source="Products/Product A/Article1.htm" />
+    <Url
+      Source="Products/Product A/Article2.htm" />
+    <Url
+      Source="Products/Product A/Article3.htm" />
+    <Url
+      Source="Resources/Images/ListIcon.png" />
+    <Url
+      Source="Resources/Images/MasterPage.png" />
+    <Url
+      Source="Resources/Images/MasterPage_Source.png" />
+    <Url
+      Source="Resources/MasterPages/KB_Master_Page.flmsp" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/TableStyles/KBTable1.css" />
+    <Url
+      Source="Resources/TableStyles/KBTable2.css" />
+    <Url
+      Source="Sample Topics/ChangeLogoInSkin.htm" />
+    <Url
+      Source="Sample Topics/EditingMasterPage.htm" />
+  </SourceUrls>
+  <SourceLinkSetUrls />
+  <UsedUrls>
+    <Url
+      Source="Products/Product A/Article1.htm"
+      Terms="Product A:Article 1 | Default.Not Ready for Publish |  [6]" />
+    <Url
+      Source="Products/Product A/Article2.htm"
+      Terms="Product A:Article 2 | Default.Not Ready for Publish |  [6]" />
+    <Url
+      Source="Products/Product A/Article3.htm"
+      Terms="Product A:Article 3 | Default.Not Ready for Publish |  [6]" />
+  </UsedUrls>
+  <UsedIndexControlUrls />
+</CatapultGlobalIndex>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags">
+  <ConditionTag
+    Comment=""
+    Name="Mac"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="Windows"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Android"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="iPhone"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="iPad"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Windows Phone"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Blackberry"
+    Comment="" />
+</CatapultConditionTagSet>

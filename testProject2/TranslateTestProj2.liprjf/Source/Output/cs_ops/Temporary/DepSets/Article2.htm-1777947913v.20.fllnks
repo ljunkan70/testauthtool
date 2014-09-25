@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileLanguage="en-us"
+  FileSearchable="true"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/TableStyles/KBTable2.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MyVariables.flvar" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/TableStyles/KBTable2.css" />
+    <Link
+      Url="Content/Resources/Stylesheets/Styles.css" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MyVariables.flvar" />
+  </LongLinks>
+  <Anchors />
+  <Keywords>
+    <IndexCacheEntry
+      Term="Product A:Article 2"
+      Conditions="Default.Not Ready for Publish"
+      LocalConditions=""
+      Position="6" />
+  </Keywords>
+  <Concepts>
+    <ConceptCacheEntry
+      Term="Article"
+      Conditions="Default.Not Ready for Publish"
+      LocalConditions=""
+      Position="8" />
+  </Concepts>
+  <ConceptControlNames>
+    <ConceptControlName
+      Term="Article" />
+  </ConceptControlNames>
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MyVariables.ProductA" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.Not Ready for Publish" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.Not Ready for Publish" />
+  </AllConditions>
+  <Stylesheets>
+    <Url
+      Source="Content/Resources/TableStyles/KBTable2.css" />
+    <Url
+      Source="Content/Resources/Stylesheets/Styles.css" />
+  </Stylesheets>
+</CatapultFileLinkSet>
